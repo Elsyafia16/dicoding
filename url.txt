@@ -6,4 +6,4 @@ url dashboard
   Network URL: http://192.168.0.102:8501
 
 URL
-  https://dicoding-projekakhirdashboardelsya.streamlit.app/
+  https://dashboardpy-bikesharingsystembyelsya.streamlit.app
