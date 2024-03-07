@@ -7,8 +7,8 @@ from babel.numbers import format_currency
 import datetime
 sns.set(style='dark')
 
-day_df = pd.read_csv("day.csv")
-hour_df= pd.read_csv("hour.csv")
+day_df = pd.read_csv("dashboard/day.csv")
+hour_df= pd.read_csv("dashboard/hour.csv")
 
 day_df['season'] = day_df['season'].replace({1:'springer', 2:'summer', 3:'fall', 4:'winter'})
 day_df['yr'] = day_df['yr'].replace({0: '2011', 1:'2012'})
