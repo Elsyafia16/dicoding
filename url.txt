@@ -1,0 +1,6 @@
+Streamlit Run
+streamlit run c:/Users/hp/Documents/Code/Proyek_analisis.py
+
+url dashboard 
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.0.102:8501
